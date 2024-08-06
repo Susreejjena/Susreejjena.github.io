@@ -1,1 +1,1 @@
-# Susreejjena.github.io
+Hello! Welcome to my portfolio. Here is where I share information about myself, projects, and skills related to web development. Using modern technologies, this project is also a demonstration of my technical skills.
