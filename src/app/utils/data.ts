@@ -19,7 +19,7 @@ export type projectType = {
 export const projectsData: projectType[] = [
   {
     name: 'Travello',
-    repo: 'https://github.com/Vyomrana02/Travello--Tours-Travels-Management',
+    repo: 'https://github.com/Susreejjena/Travello--Tours-Travels-Management',
     isDeploy: false,
     url: '',
     image:
@@ -27,62 +27,10 @@ export const projectsData: projectType[] = [
     description:
       'A Tours Booking Website.',
     tags: ['React', 'NodeJS', 'MongoDB', 'ExpressJS', 'JWT', 'Razorpay-API','NodeMailer']
-  },  
-  {
-    name: 'The Book Binge',
-    repo: 'https://github.com/Vyomrana02/BOOK-MANAGEMENT-USING-REACT-AND-C--WEBAPI/tree/main',
-    isDeploy: false,
-    url: '',
-    image:
-      '/Book-store.png',
-    description: 'Books buying and selling Website.',
-    tags: ['ReactJS', '.Net Core', 'Web API', 'Bootstrap']
-  },
-  
-  {
-    name: 'Spring Shop',
-    repo: 'https://github.com/Vyomrana02/spring-ecommerce',
-    isDeploy: false,
-    url: '',
-    image:
-      '/spring-ecommerce.png',
-    description: 'A Shop to buy Shoes.',
-    tags: ['Java', 'Spring-boot', 'React']
-  },
-  {
-    name: 'Virtual Mouse with Bot',
-    repo: 'https://github.com/Vyomrana02/Virtual_Mouse',
-    isDeploy: false,
-    url: '',
-    image:
-      '/Virtual_Mouse.png',
-    description: 'Controlling Mouse using camera and hand movement',
-    tags: ['Python', 'OpenCV', 'Mediapipe']
-  },
-  {
-    name: 'Railway Reservation System',
-    repo: 'https://github.com/Vyomrana02/RailWay-Reservation-System/tree/main/Railway_Res',
-    isDeploy: false,
-    url: '',
-    image:
-      '/Railway-Res.png',
-    description: 'Online Railway Ticket booking and Management.',
-    tags: ['.Net Framework', 'SMTP', 'Bootstrap']
-  },
-  {
-    name: 'Crypto Hub',
-    repo: 'https://github.com/Vyomrana02/CryptoCurrency_Tracker',
-    isDeploy: true,
-    url: 'https://strong-hummingbird-c14dad.netlify.app/',
-    image:
-      '/Crypto-Hub.png',
-    description:
-      'An Crypto-Currency tracking Website.',
-    tags: ['React', 'MIUI-5', 'Crypto-API', 'JWT']
-  },
+  }
   {
     name: 'Text-Teo',
-    repo: 'https://github.com/Vyomrana02/TEXT-SUMMARIZER',
+    repo: 'https://github.com/Susreejjena/TEXT-SUMMARIZER',
     isDeploy: false,
     url: '',
     image:
@@ -91,16 +39,7 @@ export const projectsData: projectType[] = [
       'An Audio, Text, Video Summarizer.',
     tags: ['Django', 'Python', 'ML']
   },
-  {
-    name: 'Food Delivery',
-    repo: 'https://github.com/Vyomrana02/Quote-API',
-    isDeploy: false,
-    url: '',
-    image:
-      '/Food-Delivery.png',
-    description: 'An Pizza Delivery App',
-    tags: ['Dart', 'Flutter', 'RazorpayAPI', 'GoogleMapsAPI']
-  },
+  
   // {
   //   name: 'Currency Convertor',
   //   repo: 'https://github.com/Vyomrana02/Currency-convertor-app',
@@ -167,10 +106,10 @@ export const skillsData = [
     img: 'javascript/javascript-original.svg',
     name: 'JavaScript'
   },
-  {
-    img: 'sass/sass-original.svg',
-    name: 'Sass'
-  },
+  //{
+    //img: 'sass/sass-original.svg',
+    //name: 'Sass'
+  //},
   {
     img: 'typescript/typescript-original.svg',
     name: 'TypeScript'
@@ -203,42 +142,42 @@ export const skillsData = [
     img: 'cplusplus/cplusplus-original.svg',
     name: 'C++'
   },
-  {
-    img: 'spring/spring-original.svg',
-    name: 'Spring'
-  },
-  {
-    img: 'dot-net/dot-net-original.svg',
-    name: '.Net'
-  },
-  {
-    img: 'dotnetcore/dotnetcore-original.svg',
-    name: '.Net Core'
-  },
+  //{
+    //img: 'spring/spring-original.svg',
+    //name: 'Spring'
+  //},
+  //{
+    //img: 'dot-net/dot-net-original.svg',
+    //name: '.Net'
+  //},
+  //{
+    //img: 'dotnetcore/dotnetcore-original.svg',
+    //name: '.Net Core'
+  //},
   {
     img: 'nodejs/nodejs-original.svg',
     name: 'NodeJS'
   },
-  {
-    img: 'express/express-original.svg',
-    name: 'ExpressJS'
-  },
+  //{
+   // img: 'express/express-original.svg',
+    //name: 'ExpressJS'
+  //},
   {
     img: 'django/django-plain.svg',
     name: 'Django'
   },
-  {
-    img: 'hibernate/hibernate-original.svg',
-    name: 'Hibernate'
-  },  
+  //{
+    //img: 'hibernate/hibernate-original.svg',
+    //name: 'Hibernate'
+  //},  
   {
     img: 'mysql/mysql-original.svg',
     name: 'MySQL'
   },
-  {
-    img: 'postgresql/postgresql-original.svg',
-    name: 'PostgreSQL'
-  },
+  //{
+    //img: 'postgresql/postgresql-original.svg',
+    //name: 'PostgreSQL'
+  //},
   {
     img: 'mongodb/mongodb-original.svg',
     name: 'MongoDB'
@@ -255,9 +194,9 @@ export const skillsData = [
     img: 'postman/postman-original.svg',
     name: 'Postman'
   },
-  {
-    img: 'cassandra/cassandra-original.svg',
-    name: 'Cassandra'
-  },
+  //{
+   // img: 'cassandra/cassandra-original.svg',
+    //name: 'Cassandra'
+  //},
 
 ]

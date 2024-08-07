@@ -6,15 +6,15 @@ const iconSize = { width: 28, height: 28 }
 
 const socialData = [
   {
-    link: 'https://github.com/Vyomrana02/',
+    link: 'https://github.com/Susreejjena/',
     icon: <Github width={iconSize.width} height={iconSize.height} />
   },
   {
-    link: 'https://www.linkedin.com/in/vyomrana/',
+    link: 'https://www.linkedin.com/in/susree-jyotrimayee-jena/',
     icon: <Linkedin width={iconSize.width} height={iconSize.height} />
   },
   {
-    link: 'https://www.instagram.com/vyom.rana/',
+    link: 'https://www.instagram.com/susree.jjena/',
     icon: <Instagram width={iconSize.width} height={iconSize.height} />
   }
 ]
@@ -33,7 +33,7 @@ export const Footer = () => {
         }}
         className="mx-auto flex w-full max-w-5xl items-center justify-between border-t py-8 text-lg sm:flex-col sm:gap-y-6"
       >
-        <p>© 2023 / Vyom Rana</p>
+        <p>© 2024 / Susree JJena</p>
         <div className="flex items-center gap-4">
           {socialData.map((social, index) => (
             <a
